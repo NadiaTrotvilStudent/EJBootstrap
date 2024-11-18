@@ -9,6 +9,12 @@ Este proyecto es un sitio web desarrollado para un **Estudio Jurídico** como pa
 3. Personalice la web añadiendo un **menú genérico** y un **footer** que se ubique al final de la pantalla (siempre visible, independientemente del contenido).
 4. Muestre un mensaje con **JavaScript** cuando el usuario toque el botón de enviar el formulario.
 
+## Visualización en GitHub Pages
+
+Puedes acceder al proyecto en línea haciendo clic en el siguiente enlace:
+
+**[Ver sitio en GitHub Pages](https://nadiatrotvilstudent.github.io/EJBootstrap/)**
+
 ## Estructura del Proyecto
 
 El sitio consta de las siguientes páginas:
