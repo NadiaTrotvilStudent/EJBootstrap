@@ -47,7 +47,7 @@ El sitio consta de las siguientes páginas:
 
 1. **Clona el repositorio o descarga los archivos:**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/NadiaTrotvilStudent/EJBootstrap.git>
 
 
 ├── index.html
